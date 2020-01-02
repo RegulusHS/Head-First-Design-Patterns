@@ -1,4 +1,4 @@
-package chapter3;
+package chapter3.starbuzzWithSizes;
 
 public class DarkRoast extends Beverage {
 

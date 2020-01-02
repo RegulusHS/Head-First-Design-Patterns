@@ -1,4 +1,4 @@
-package chapter3;
+package chapter3.starbuzz;
 
 public class Espresso extends Beverage {
 

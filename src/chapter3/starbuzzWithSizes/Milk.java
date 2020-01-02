@@ -1,4 +1,4 @@
-package chapter3;
+package chapter3.starbuzzWithSizes;
 
 public class Milk extends CondimentDecorator {
     Beverage beverage;
