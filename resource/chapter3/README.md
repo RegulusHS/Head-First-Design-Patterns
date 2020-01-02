@@ -35,3 +35,12 @@
 
 **继承Beverage抽象类，是为了有正确的类型，而不是继承它的行为。行为来自装饰者和基础组件，或与其他装饰者之间的组合关系。**
 
+## 真实世界的装饰者：Java I/O
+
+1. FileInputStream 是被装饰的“组件”。Java I/O 程序库提供了几个组件，包括了 FileInputStream、StringBufferInputStream、ByteArrayInputStream……等。这些类都提供了最基本的字节读取功能。
+2. BufferedInputStream 是一个具体的“装饰者”，它加入两种行为：利用缓冲输入来改进性能；用一个 readLine()方法（用来一次读取一行文本输入数据）来增强接口。
+3. LineNumberInputStream 也是一个具体的“装饰者”。它加上了计算行数的能力。
+
+BufferedInputStream 及 LineNumberInputStream 都扩展自 FilterInputStream，而 FilterInputStream 是一个抽象的装饰类。
+
+![Java I/O类](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter3/Java I_O.jpg)
