@@ -43,4 +43,4 @@
 
 BufferedInputStream 及 LineNumberInputStream 都扩展自 FilterInputStream，而 FilterInputStream 是一个抽象的装饰类。
 
-![Java I/O类](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter3/Java I_O.jpg)
+![Java I/O类](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter3/Java%20I_O.jpg)
