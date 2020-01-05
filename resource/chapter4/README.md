@@ -8,7 +8,7 @@
 
 简单工厂其实不是一个设计模式，反而比较像是一种编程习惯。
 
-![披萨店类图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter4/披萨店类图.jpg)
+![披萨店类图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter4/比萨店类图.jpg)
 
 ## 认识工厂方法模式（P131）
 
