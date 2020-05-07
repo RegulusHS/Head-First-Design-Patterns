@@ -8,7 +8,7 @@
 
 简单工厂其实不是一个设计模式，反而比较像是一种编程习惯。
 
-![比萨店类图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter4/比萨店类图.jpg)
+![比萨店类图](http://q8id96pmj.bkt.clouddn.com/img/比萨店类图.jpg)
 
 ## 认识工厂方法模式
 
@@ -69,7 +69,7 @@
 
 抽象工厂允许客户使用抽象的接口来创建一组相关的产品，而不需要知道（或关心）实际产出的具体产品是什么。这样一来，客户就从具体的产品中被解耦。让我们看看类图来了解其中的关系：
 
-![抽象工厂模式类图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter4/抽象工厂模式类图.jpg)
+![抽象工厂模式类图](http://q8id96pmj.bkt.clouddn.com/img/抽象工厂模式类图.jpg)
 
 在抽象工厂中，利用工厂方法实现生产方法是相当自然的做法。
 

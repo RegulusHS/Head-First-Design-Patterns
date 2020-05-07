@@ -27,11 +27,11 @@
 
 **装饰者模式**动态地将责任附加到对象上。若要扩展功能，装饰者提供了比继承更有弹性的替代方案。
 
-![装饰者模式类图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter3/装饰者模式.jpg)
+![装饰者模式类图](http://q8id96pmj.bkt.clouddn.com/img/装饰者模式.jpg)
 
 ## 星巴兹饮料类图
 
-![星巴兹饮料类图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter3/星巴兹饮料类图.jpg)
+![星巴兹饮料类图](http://q8id96pmj.bkt.clouddn.com/img/星巴兹饮料类图.jpg)
 
 **继承Beverage抽象类，是为了有正确的类型，而不是继承它的行为。行为来自装饰者和基础组件，或与其他装饰者之间的组合关系。**
 
@@ -43,4 +43,4 @@
 
 BufferedInputStream 及 LineNumberInputStream 都扩展自 FilterInputStream，而 FilterInputStream 是一个抽象的装饰类。
 
-![Java I/O类](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter3/Java%20I_O.jpg)
+![](http://q8id96pmj.bkt.clouddn.com/img/Java I_O.jpg)

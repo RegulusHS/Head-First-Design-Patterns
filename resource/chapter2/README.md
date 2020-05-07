@@ -13,11 +13,11 @@
 **观察者模式**定义了对象之间的一对多依赖，这样一来，当一个对象改变状态时，它的所有依赖者都会收到通知并自动更新。
 
 ## 设计气象站
-![设计气象站UML图](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter2/设计气象站UML图.jpg)
+![设计气象站UML图](http://q8id96pmj.bkt.clouddn.com/img/设计气象站UML图.jpg)
 
 ## Java内置的观察者模式
 修改后的气象站OO设计UML图
-![修改后气象站OO设计](https://github.com/RegulusHS/Head-First-Design-Patterns/blob/master/resource/chapter2/修改后气象站OO设计.jpg)
+![修改后的气象站OO设计UML图](http://q8id96pmj.bkt.clouddn.com/img/修改后气象站OO设计.jpg)
 
 ### java.util.Observable存在的缺点
 1. **Observable是一个类**  
