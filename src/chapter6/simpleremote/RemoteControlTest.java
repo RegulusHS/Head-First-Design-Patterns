@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.simpleremote;
 
 /**
  * 这是命令模式的客户

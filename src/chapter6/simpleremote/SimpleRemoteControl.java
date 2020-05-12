@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.simpleremote;
 
 public class SimpleRemoteControl {
     Command slot;
