@@ -6,5 +6,5 @@
 
 ## 定义命令模式类图
 
-![](http://q8id96pmj.bkt.clouddn.com/img/命令模式类图.jpg)
+![](https://picgo-1300787142.cos.ap-shanghai.myqcloud.com/img/命令模式类图.jpg)
 

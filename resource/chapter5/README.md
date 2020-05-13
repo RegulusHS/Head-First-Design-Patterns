@@ -33,11 +33,11 @@ public class Singleton {
 
 **单件模式确保一个类只有一个实例，并提供一个全局访问点。**
 
-![](http://q8id96pmj.bkt.clouddn.com/img/单件模式类图.jpg)
+![](https://picgo-1300787142.cos.ap-shanghai.myqcloud.com/img/单件模式类图.jpg)
 
 ## 处理多线程
 
-![](http://q8id96pmj.bkt.clouddn.com/img/多线程下的单件模式.jpg)
+![](https://picgo-1300787142.cos.ap-shanghai.myqcloud.com/img/多线程下的单件模式.jpg)
 
 只要把`getInstance()`变成同步（synchronized）方法，多线程灾难几乎就可以轻易地解决了：
 
