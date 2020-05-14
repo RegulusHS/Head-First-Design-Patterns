@@ -1,7 +1,3 @@
----
-typora-copy-images-to: upload
----
-
 # 策略模式（Strategy Pattern）
 
 ## 定义
