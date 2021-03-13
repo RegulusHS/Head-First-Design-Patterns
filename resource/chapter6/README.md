@@ -6,7 +6,7 @@
 
 ## 定义命令模式类图
 
-![](https://picgo-1300787142.cos.ap-shanghai.myqcloud.com/img/命令模式类图.jpg)
+![](命令模式类图.jpg)
 
 ## 命令模式的更多用途
 
